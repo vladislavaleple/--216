@@ -1,0 +1,15 @@
+C:\Users\Vitalik\Desktop\Travel\DAL\bin\Debug\DAL.dll.config
+C:\Users\Vitalik\Desktop\Travel\DAL\bin\Debug\DAL.dll
+C:\Users\Vitalik\Desktop\Travel\DAL\bin\Debug\DAL.pdb
+C:\Users\Vitalik\Desktop\Travel\DAL\bin\Debug\AutoMapper.dll
+C:\Users\Vitalik\Desktop\Travel\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Vitalik\Desktop\Travel\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vitalik\Desktop\Travel\DAL\bin\Debug\AutoMapper.pdb
+C:\Users\Vitalik\Desktop\Travel\DAL\bin\Debug\AutoMapper.xml
+C:\Users\Vitalik\Desktop\Travel\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Vitalik\Desktop\Travel\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vitalik\Desktop\Travel\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Vitalik\Desktop\Travel\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Vitalik\Desktop\Travel\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Vitalik\Desktop\Travel\DAL\obj\Debug\DAL.dll
+C:\Users\Vitalik\Desktop\Travel\DAL\obj\Debug\DAL.pdb
